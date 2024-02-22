@@ -1,0 +1,16 @@
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Okul_Projesi\bin\Debug\Okul_Projesi.exe.config
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Okul_Projesi\bin\Debug\Okul_Projesi.exe
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Okul_Projesi\bin\Debug\Okul_Projesi.pdb
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Okul_Projesi\obj\Debug\Okul_Projesi.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Okul_Projesi\obj\Debug\Okul_Projesi.Form1.resources
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Okul_Projesi\obj\Debug\Okul_Projesi.Properties.Resources.resources
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Okul_Projesi\obj\Debug\Okul_Projesi.csproj.GenerateResource.cache
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Okul_Projesi\obj\Debug\Okul_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Okul_Projesi\obj\Debug\Okul_Projesi.exe
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Okul_Projesi\obj\Debug\Okul_Projesi.pdb
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Okul_Projesi\obj\Debug\Okul_Projesi.Frm_Ogrenci_Notlar.resources
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Okul_Projesi\obj\Debug\Okul_Projesi.Frm_Kulup.resources
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Okul_Projesi\obj\Debug\Okul_Projesi.Frm_Ogretmen.resources
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Okul_Projesi\obj\Debug\Okul_Projesi.Frm_Dersler.resources
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Okul_Projesi\obj\Debug\Okul_Projesi.Frm_Ogrenci.resources
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Okul_Projesi\obj\Debug\Okul_Projesi.Frm_Sınav_Notlar.resources
